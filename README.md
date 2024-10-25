@@ -1,1 +1,1 @@
-# LP_YOLOV8
+# License Plate Dection using YOLOv8
